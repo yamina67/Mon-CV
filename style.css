@@ -1,0 +1,209 @@
+body {
+  margin : 0;
+  padding: 0;
+  background-color: #A3887C;
+
+
+
+
+
+}
+
+
+
+header {
+  height:100vh;
+  width:100%;
+  background-image: url("IMG/FONT PAYSAGE.gif");
+  background-size:cover;
+}
+#logo{padding:25px;}
+header h1 {font-size:35px;
+          font-family:;
+          color:White;
+          padding:30px;
+          margin:0px;
+        }
+#logo1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.boite1 {
+  border:2px solid GREY;
+  width:85%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 1px 25px 10px grey;
+background-color: #ffdccd;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+.boite2 {
+  border:2px solid GREY;
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 20px grey;
+background-color: #A3887C;
+
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+
+
+.montitre {
+  position:relative;
+  top:15vh;
+  width:90%;
+  margin:auto;
+  text-align:center;
+  background-color: grey;
+  opacity: 0.4;}
+
+
+
+
+  section {
+    min-height:100vh;
+
+  }
+  #section2{
+      backrground-color: black;}
+
+
+
+
+
+div.boite1 {
+}
+
+   h2{
+      text-align: justify;
+      padding-top: 25px;
+}
+
+    footer {
+      position: absolute;
+      margin-bottom: 10px;
+      width:200%;
+      min-height: 200px;
+      background-color: black;
+}
+
+    p{
+
+      font-size: 25px;
+      padding-left: 10%;
+      padding-right: 10%;
+      text-align: justify;
+}
+
+
+
+
+
+
+
+   h2{
+      text-align: center;
+      padding-top: 25px;
+    }
+
+    footer {
+      position: absolute;
+      margin-bottom: 0;
+      width: 100%;
+      min-height: 200px;
+      background-color: black;
+    }
+
+    h3{
+      padding-top: 10px;
+      padding-left: 5;
+      padding-right: 5%;
+      font-size: 30px;
+       }
+
+       h4{
+         padding-top: 10px;
+         padding-left: 10%;
+         padding-right: 10%;
+          text-align: center ;
+          color: red;
+          }
+
+          h5{
+            padding-top: 10px;
+            padding-left: 10%;
+             text-align:left;
+
+             color: red;
+             }
+
+
+
+
+p{
+
+  font-size: 32px;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: justify;
+
+}
+
+
+
+
+
+
+.boite1 li{
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+.droite {
+  float:justify;
+
+}
+.droite p{
+  margin-top: 40%;
+  margin-right: 60px;
+  text-align: left;
+  text-align: justify;
+}
+
+
+
+
+
+
+#section3
+
+h2{
+   text-align: justify;
+   padding-top: 18px;
+}
+
+
+.table{
+  width:100%;
+
+}
+
+
+ td#gauche img{
+  width: 50%;
+  padding-right: 50%;
+
+}
+
+ td#droite p{
+
+    width: 50%;
+    text-align: justify;
+  }
