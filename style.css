@@ -17,7 +17,8 @@ header {
   background-image: url("IMG/FONT PAYSAGE.gif");
   background-size:cover;
 }
-#logo{padding:25px;}
+#logo{padding-left: 45px;
+padding-top: 45px;}
 header h1 {font-size:35px;
           font-family:;
           color:White;
@@ -54,6 +55,31 @@ margin-bottom: 30px;
 }
 
 
+nav{
+  position: fixed;
+  width: 100%;
+  height:100px;
+  top: 0;
+
+text-align: right;
+
+}
+
+a:link{
+  color: White;
+}
+
+nav li{
+
+  display: run-in;
+  font-size: 20px;
+  float: center;
+  font-style: italic;
+  padding-right: 15px;
+  margin-right: 10px;
+
+}
+
 
 .montitre {
   position:relative;
@@ -82,7 +108,7 @@ div.boite1 {
 }
 
    h2{
-      text-align: justify;
+      text-align: center;
       padding-top: 25px;
 }
 
@@ -123,26 +149,40 @@ div.boite1 {
 
     h3{
       padding-top: 10px;
-      padding-left: 5;
+      padding-left: 5%;
       padding-right: 5%;
       font-size: 30px;
+      text-align: justify ;
        }
 
        h4{
          padding-top: 10px;
          padding-left: 10%;
          padding-right: 10%;
-          text-align: center ;
-          color: red;
+          text-align: center;
+          font-size: 30px;
+          color: White;
           }
 
           h5{
             padding-top: 10px;
             padding-left: 10%;
-             text-align:left;
+            text-align: left;
 
              color: red;
              }
+
+
+
+                       h6{
+                         padding-top: 10px;
+                         padding-left: 0,5px;
+                         padding-right: 20px;
+                         text-align: justify;
+
+                          color: brown;
+                          font-size: 20px;
+                          }
 
 
 
@@ -185,7 +225,7 @@ p{
 #section3
 
 h2{
-   text-align: justify;
+   text-align: center;
    padding-top: 18px;
 }
 
