@@ -31,11 +31,11 @@ header h1 {font-size:35px;
   margin-right: auto;
 }
 .boite1 {
-  border:2px solid GREY;
-  width:85%;
+  border:1px solid grey;
+  width:90%;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 1px 25px 10px grey;
+  box-shadow: 30px 10px 30px grey;
 background-color: #ffdccd;
 margin-top: 20px;
 margin-bottom: 20px;
@@ -43,15 +43,15 @@ margin-bottom: 20px;
 
 
 .boite2 {
-  border:2px solid GREY;
-  width:80%;
+  border:1px solid grey;
+  width:90%;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 10px 10px 20px grey;
+  box-shadow: 30px 10px 30px grey;
 background-color: #A3887C;
 
-margin-top: 30px;
-margin-bottom: 30px;
+margin-top: 20px;
+margin-bottom: 20px;
 }
 
 
@@ -166,10 +166,13 @@ div.boite1 {
 
           h5{
             padding-top: 10px;
-            padding-left: 10%;
-            text-align: left;
+            padding-left: 10px;
+            padding-right: 25px;
+            text-align: justify;
 
-             color: red;
+             color: black;
+             font-size: 25px;
+
              }
 
 
@@ -236,14 +239,19 @@ h2{
 }
 
 
- td#gauche img{
-  width: 50%;
-  padding-right: 50%;
+ #gauche {
+  width: 35%;
+
+
 
 }
 
- td#droite p{
 
-    width: 50%;
-    text-align: justify;
+
+ #droite {
+
+    width: 65%;
+
+
+
   }
